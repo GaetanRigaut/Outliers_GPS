@@ -1,0 +1,2 @@
+,name,type,id,rssi
+0,Decathlon Dual HR,BLE,F8:E9:07:EF:53:84,

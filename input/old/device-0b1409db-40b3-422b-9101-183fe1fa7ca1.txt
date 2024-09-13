@@ -1,0 +1,2 @@
+,name,type,id,rssi
+0,HW706V-1111416,BLE,FC:47:BE:19:10:61,

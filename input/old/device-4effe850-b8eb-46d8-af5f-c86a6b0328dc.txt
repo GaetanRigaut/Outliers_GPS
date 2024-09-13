@@ -1,0 +1,2 @@
+,name,type,id,rssi
+0,hBAND,BLE,CB:42:7F:0A:7E:0C,

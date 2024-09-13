@@ -1,0 +1,1 @@
+1631163548160;{"device":{"name":"hBAND","type":"BLE","id":"B6C448DA-464B-0B3F-1BBB-012DDD6621E6","rssi":null},"phone":{"os":"unknown","brand":"Apple","deviceId":"iPhone11,8"}}

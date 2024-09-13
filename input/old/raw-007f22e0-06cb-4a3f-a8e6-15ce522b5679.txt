@@ -1,0 +1,3 @@
+,RR,Timestamp,SensorContact,errorEstimate,blockerBit
+0,519,1624355620648,-1,-1,-1
+1,471,1624355620648,-1,-1,-1

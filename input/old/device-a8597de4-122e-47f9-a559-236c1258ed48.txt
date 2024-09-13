@@ -1,0 +1,2 @@
+,name,type,id,rssi
+0,hBAND,BLE,F7:22:FE:77:A2:A5,

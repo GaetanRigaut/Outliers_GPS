@@ -1,0 +1,2 @@
+,name,type,id,rssi
+0,Rhythm 24 3327,BLE,CC:E9:E8:9A:50:B3,
